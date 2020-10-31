@@ -26,3 +26,7 @@ https://github.com/prerna-bhatra/Pratilipi
 6.Examination managemnet system
 http://antima.epizy.com/
 
+
+7. dsalgo basics-:
+https://github.com/prerna-bhatra/dsalgo
+
