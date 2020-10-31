@@ -5,7 +5,7 @@ This repo contains all best projects links on my account
 
 https://github.com/prerna-bhatra/parking2
 
-https://smarparking.vercel.app/singin
+https://smarparking.vercel.app
 
 2.ONlineBookStore-:https://github.com/prerna-bhatra/bookbackend
 (https://onlinelibrary.vercel.app/)
