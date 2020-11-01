@@ -30,3 +30,15 @@ http://antima.epizy.com/
 7. dsalgo basics-:
 https://github.com/prerna-bhatra/dsalgo
 
+
+8.ui designs
+https://prerna-bhatra.github.io/futuresinfotech/
+
+
+
+https://prerna-bhatra.github.io/attorswebsite/
+
+
+
+
+
