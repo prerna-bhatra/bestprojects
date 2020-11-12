@@ -31,6 +31,9 @@ http://antima.epizy.com/
 https://github.com/prerna-bhatra/dsalgo
 
 
+Redux -:https://github.com/prerna-bhatra/Redux
+
+
 8.ui designs
 https://prerna-bhatra.github.io/futuresinfotech/
 
